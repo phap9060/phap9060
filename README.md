@@ -14,6 +14,12 @@
 
 :outbox_tray: 2021 Goals: start my dev carrer!!!!!
 
+🖥️ My dev languages for now are them:
+-HTML
+-CSS
+-JAVA SCRIPT + REACT
+
+
  
 
 ## About me
