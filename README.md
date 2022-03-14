@@ -12,12 +12,12 @@
 
 :books: I’m graduated in civil enginner and studying Computer Science at IFMA 💙 
 
-:outbox_tray: 2021 Goals: start my dev carrer!!!!!
+:outbox_tray: 2022 Goals: start my dev carrer!!!!!
 
 🖥️ My dev languages for now are them:
 * HTML
 * CSS
-* JAVA SCRIPT + REACT
+* JAVA SCRIPT + TypeScript + REACT + NODE
 
 
  
