@@ -17,7 +17,7 @@
 🖥️ My dev languages for now are them:
 * HTML
 * CSS
-* JAVA SCRIPT + TypeScript + REACT + NODE
+* JAVA SCRIPT + TypeScript + REACT
 
 
  
