@@ -6,18 +6,20 @@
 
  
 
-:computer: I'm Front-End Developer and love code 🖤!
+:computer: I'm Full Stack Developer Developer and love code 🖤!
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m graduated in civil enginner and studying Computer Science at IFMA 💙 
 
-:outbox_tray: 2022 Goals: start my dev carrer!!!!!
+
 
 🖥️ My dev languages for now are them:
 * HTML
 * CSS
 * JAVA SCRIPT + TypeScript + REACT
+* NodeJS
+* Flutter
 
 
  
